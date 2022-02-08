@@ -66,7 +66,9 @@ The original dataset is compiled on a monthly basis. I downloaded dataset from t
 
 This step covers the steps taken to process the data to get it ready for the analysis and visualization.
 
-The original data is in csv file format. And there initially 21 files with monthly  Cyclistic trip data starting from 2020-04 to 2021-12.
+The original data was in csv file format. And there were initially 21 files with monthly Cyclistic trip data starting from 2020-04 to 2021-12.
+
+Each of the files were uploaded to postgreSQL for cleaning.
 
 
 
