@@ -70,6 +70,9 @@ The original data was in csv file format. And there were initially 21 files with
 
 Each of the files were uploaded to postgreSQL for cleaning.
 
+The data cleaning codes used is found [here](bike_share.ipynb)
+
+
 
 
 
