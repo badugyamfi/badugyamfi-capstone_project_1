@@ -76,10 +76,14 @@ The steps in the above jupyter notebook are summarized as follows:
 
 - First, all the data was uploaded directly to PostgreSQL.
 - Set up the conda environment and opened the jupyter notebook
-- Combined all the 21 different data into a single file using the **UNION** command
+- Combined all the 21 different data into a single file and eliminated duplicate using the **UNION** command
 - Eliminated all rows with null values
 - Eliminated all row whose start date is after the end data
 - Extracted the last 12 months of data for the study
 
 
+
+## **ANALYZE**
+
+This phase covers the steps used to analyze the cleaned data. In this phase I used Tableau. As the data was already cleaned, it did not need any further cleaning.
 
