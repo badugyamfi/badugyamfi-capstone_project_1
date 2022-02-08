@@ -72,7 +72,11 @@ Each of the files were uploaded to postgreSQL for cleaning.
 
 The data cleaning codes used is found [here](bike_share.ipynb)
 
+The steps in the above jupyter notebook are summarized as follows:
 
+- First, all the data was uploaded directly to PostgreSQL.
+- Opened jupyter Set up the conda environment
+- 
 
 
 
