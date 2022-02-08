@@ -94,9 +94,20 @@ However, various calculated fields were created to help with the analysis. These
 
 
 The general overview of the data indicates that there were 10.72% more many of rides completed by annual members than the casual riders.
-![image](https://user-images.githubusercontent.com/98782609/152918358-31eb2b96-c79d-4c8f-8d85-fe2a7d99e753.png)
+![image](https://user-images.githubusercontent.com/98782609/153013795-1cc5df46-935e-4e9f-8edc-9f29ec55a442.png)
 
-However, further analysis indicates that casual riders accounted for more cummulative and average ride duration than the annual members.
-![image](https://user-images.githubusercontent.com/98782609/152919854-5966cbb1-c1f3-46f0-9673-049974f73224.png)
+
+
+However, further analysis indicates that casual riders accounted for more total and average ride duration than the annual members.
+![image](https://user-images.githubusercontent.com/98782609/153016409-27ecd45c-e68f-46bb-8e5e-be52cc0c2761.png)
+
+
+
+
+
+
+
+
+
 
 
