@@ -87,3 +87,16 @@ The steps in the above jupyter notebook are summarized as follows:
 
 This phase covers the steps used to analyze the cleaned data. In this phase I used Tableau. As the data was already cleaned, it did not need any further cleaning.
 
+However, various calculated fields were created to help with the analysis. These include:
+- Ride Duration (hours) code: DATEDIFF('hour',[Started At],[Ended At],'sunday')
+- Ride Duration (minutes) code: DATEDIFF('minute',[Started At],[Ended At],'sunday')
+- Day of week code: DATENAME('weekday',[Started At])
+
+
+The general overview of the data indicates that there were 10.72% more many of rides completed by annual members than the casual riders.
+![image](https://user-images.githubusercontent.com/98782609/152918358-31eb2b96-c79d-4c8f-8d85-fe2a7d99e753.png)
+
+However, further analysis indicates that casual riders accounted for more cummulative and average ride duration than the annual members.
+![image](https://user-images.githubusercontent.com/98782609/152919854-5966cbb1-c1f3-46f0-9673-049974f73224.png)
+
+
