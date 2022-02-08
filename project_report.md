@@ -75,8 +75,11 @@ The data cleaning codes used are found in the [bike_share](bike_share.ipynb) not
 The steps in the above jupyter notebook are summarized as follows:
 
 - First, all the data was uploaded directly to PostgreSQL.
-- Opened jupyter Set up the conda environment
-- 
+- Set up the conda environment and opened the jupyter notebook
+- Combined all the 21 different data into a single file using the **UNION** command
+- Eliminated all rows with null values
+- Eliminated all row whose start date is after the end data
+- Extracted the last 12 months of data for the study
 
 
 
