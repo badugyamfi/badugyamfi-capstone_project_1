@@ -92,6 +92,11 @@ However, various calculated fields were created to help with the analysis. These
 - Ride Duration (minutes) code: DATEDIFF('minute',[Started At],[Ended At],'sunday')
 - Day of week code: DATENAME('weekday',[Started At])
 
+Below is a screenshot of the Tableau dashboard created for this project.
+![image](https://user-images.githubusercontent.com/98782609/153142026-61f5611c-1068-46ff-a439-5ba487e5543d.png)
+The work done in Tableau can be accessed at this Tableau Public [Link.](https://public.tableau.com/views/Capstone_project_1_16443091886810/Cyclistic2021?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+
 
 The general overview of the data indicates that there were 10.72% more many of rides completed by annual members than the casual riders.
 ![image](https://user-images.githubusercontent.com/98782609/153013795-1cc5df46-935e-4e9f-8edc-9f29ec55a442.png)
@@ -100,6 +105,25 @@ The general overview of the data indicates that there were 10.72% more many of r
 
 However, further analysis indicates that casual riders accounted for more total and average ride duration than the annual members.
 ![image](https://user-images.githubusercontent.com/98782609/153016409-27ecd45c-e68f-46bb-8e5e-be52cc0c2761.png)
+
+
+
+The total monthly ride duration, expressed in hours, spanning from Jan 2021 to Dec 2021 is displayed as follows.
+![image](https://user-images.githubusercontent.com/98782609/153146451-d257c674-be7a-4532-bf53-0ab5455d9b6c.png)
+
+
+
+Detailed look at data at weekly and daily level are shown below.
+![image](https://user-images.githubusercontent.com/98782609/153153478-b06d6668-f063-48d5-af24-4602ae406095.png)
+
+
+
+The are monthly ride duration covered the various bike types; classic, docked, and electric.
+![image](https://user-images.githubusercontent.com/98782609/153155126-37709656-40ed-4587-8988-f04b74441920.png)
+![image](https://user-images.githubusercontent.com/98782609/153155362-32097561-6efb-478a-bf87-a3442261f8e9.png)
+![image](https://user-images.githubusercontent.com/98782609/153155473-16e37e62-e17e-40d1-84cc-5c310b3c4cdd.png)
+
+
 
 
 
