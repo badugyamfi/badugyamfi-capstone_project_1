@@ -100,38 +100,46 @@ The work done in Tableau can be accessed at this Tableau Public [Link.](https://
 
 #### The general overview of the data indicates that there were 10.72% more many of rides completed by annual members than the casual riders.
 
-![image](https://user-images.githubusercontent.com/98782609/153013795-1cc5df46-935e-4e9f-8edc-9f29ec55a442.png)
+![Number of Rides](https://user-images.githubusercontent.com/98782609/153441599-e9559ae1-0362-491a-a130-83ee775a4963.png)
+
 
 
 #### However, further analysis indicates that casual riders accounted for more total and average ride duration than the annual members.
-![image](https://user-images.githubusercontent.com/98782609/153016409-27ecd45c-e68f-46bb-8e5e-be52cc0c2761.png)
+![Number of ride and duration](https://user-images.githubusercontent.com/98782609/153446326-615054c0-c47d-4a1c-9eef-f9ebc3443a35.png)
 
 
 
 
-#### The total monthly ride duration, expressed in hours, spanning from Jan 2021 to Dec 2021 is displayed as follows.
-![image](https://user-images.githubusercontent.com/98782609/153146451-d257c674-be7a-4532-bf53-0ab5455d9b6c.png)
+
+#### The total monthly number of rides and duration spanning from Jan 2021 to Dec 2021 are displayed as follows.
+![4](https://user-images.githubusercontent.com/98782609/153449778-54218b35-46a4-46d6-9813-dea4036d34ed.png)
 
 
 
-#### Detailed look at data at weekly and daily level are shown below.
-![image](https://user-images.githubusercontent.com/98782609/153153478-b06d6668-f063-48d5-af24-4602ae406095.png)
+
+#### Detailed look at data at a weekly level is shown below.
+![5](https://user-images.githubusercontent.com/98782609/153454978-ca6a87e7-6bc5-4353-90d3-3ec855a32102.png)
+
+#### Detailed look at data at a daily level is shown below.
+![10](https://user-images.githubusercontent.com/98782609/153459209-dac67390-e086-4f61-9865-243187f1f443.png)
+
 
 
 
 #### The following are total monthly rides covered the various bike types; classic, docked, and electric.
-![image](https://user-images.githubusercontent.com/98782609/153422570-70bdb511-80a8-449a-98fe-2ed597e7f67b.png)
+![7](https://user-images.githubusercontent.com/98782609/153457346-b8590d57-e119-4033-ba5c-86a035eafbf5.png)
 
-![image](https://user-images.githubusercontent.com/98782609/153422719-130ba6a6-47d0-4347-8a12-ee153fc166ef.png)
+![8](https://user-images.githubusercontent.com/98782609/153457550-8dc4f949-773d-4f11-9d7a-48551abc8cf2.png)
 
-![image](https://user-images.githubusercontent.com/98782609/153422838-f6ac5a63-7463-472b-b93f-68f9acdbbc95.png)
-
-
+![9](https://user-images.githubusercontent.com/98782609/153458756-4768ef34-4f34-4acf-ace8-651442dc54b3.png)
 
 
 
-#### The top 20 starting stations captured in the table below
-![image](https://user-images.githubusercontent.com/98782609/153158227-b1a82255-0f70-4aef-8522-d73d83b5d1d4.png)
+
+
+#### The top 15 starting stations captured in the table below
+![Top 15 Station](https://user-images.githubusercontent.com/98782609/153441875-76c00992-0473-4340-9576-ecf97e61908b.png)
+
 
 
 
