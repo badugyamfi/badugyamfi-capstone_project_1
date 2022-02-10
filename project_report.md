@@ -172,8 +172,7 @@ The following are summary of the insight gotten from the Cyclistic data spanning
 
 In the phase, a presentation was prepared for all the stakeholders.
 
-Presentation to the stakeholders can be found [here.](Cyclistic Bike-Share.pptx)
-
+Presentation to the stakeholders can be found [here.](https://github.com/badugyamfi/badugyamfi-capstone_project_1/blob/b4030d49d407b0c68af0f1b4ae14bb5fcbc926e5/Cyclistic%20Bike-Share.pptx)
 
 ## **ACT**
 
