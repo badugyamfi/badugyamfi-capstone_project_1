@@ -119,12 +119,15 @@ The work done in Tableau can be accessed at this Tableau Public [Link.](https://
 
 
 
-#### The following are monthly ride duration covered the various bike types; classic, docked, and electric.
-![image](https://user-images.githubusercontent.com/98782609/153155126-37709656-40ed-4587-8988-f04b74441920.png)
+#### The following are total monthly rides covered the various bike types; classic, docked, and electric.
+![image](https://user-images.githubusercontent.com/98782609/153422570-70bdb511-80a8-449a-98fe-2ed597e7f67b.png)
 
-![image](https://user-images.githubusercontent.com/98782609/153155362-32097561-6efb-478a-bf87-a3442261f8e9.png)
+![image](https://user-images.githubusercontent.com/98782609/153422719-130ba6a6-47d0-4347-8a12-ee153fc166ef.png)
 
-![image](https://user-images.githubusercontent.com/98782609/153155473-16e37e62-e17e-40d1-84cc-5c310b3c4cdd.png)
+![image](https://user-images.githubusercontent.com/98782609/153422838-f6ac5a63-7463-472b-b93f-68f9acdbbc95.png)
+
+
+
 
 
 #### The top 20 starting stations captured in the table below
