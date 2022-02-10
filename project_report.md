@@ -127,11 +127,12 @@ The work done in Tableau can be accessed at this Tableau Public [Link.](https://
 
 
 #### The following are total monthly rides covered the various bike types; classic, docked, and electric.
-![7](https://user-images.githubusercontent.com/98782609/153457346-b8590d57-e119-4033-ba5c-86a035eafbf5.png)
 
-![8](https://user-images.githubusercontent.com/98782609/153457550-8dc4f949-773d-4f11-9d7a-48551abc8cf2.png)
+![11](https://user-images.githubusercontent.com/98782609/153468510-1e046dbb-755e-436b-bafc-e4b45acbcde2.png)
 
-![9](https://user-images.githubusercontent.com/98782609/153458756-4768ef34-4f34-4acf-ace8-651442dc54b3.png)
+![12](https://user-images.githubusercontent.com/98782609/153468471-7275ba4a-5731-43ea-a9e4-8412729af3fa.png)
+
+![13](https://user-images.githubusercontent.com/98782609/153468384-e4dbeba5-c355-4e4d-93d7-ac128db356c6.png)
 
 
 
@@ -140,6 +141,31 @@ The work done in Tableau can be accessed at this Tableau Public [Link.](https://
 #### The top 15 starting stations captured in the table below
 ![Top 15 Station](https://user-images.githubusercontent.com/98782609/153441875-76c00992-0473-4340-9576-ecf97e61908b.png)
 
+
+### Summary
+
+The following are summary of the insight gotten from the Cyclistic data spanning from January 2021 and December 2021.
+
+**- Members take abour 11% more rides than Casual users. However, Casual users take longer trip duration, about twice that of Members.**
+
+**- Generally, the number of rides correlates with the season of the year. Warmer temperatures correlate with increase in the number of rides and longer trip durations.**
+
+**- The number of rides by Members slightly increased by ~ 33% going into the weekdays. However, ride duration are almost the same throughout the week.**
+
+**- Contrary, Casual users take 2X more number of rides and trip durations during the weekends than the weekdays.**
+
+**- Classic bikes are the most popular bikes among both Members and Casual users, whereas, the docked bikes are only patronized by Casual users.**
+
+
+### Recommendations
+ The following recommendation are given based on the insight detailed from the analyzed phase.
+ 
+**- Seasonal members packages can be introduced as marketing strategy such as:
+Weekend membership
+Summer membership
+Annual membership
+
+Ads prepared should target recreational events at weekends and during the months of May to October. Ads should also target the top stations where Casual users begin their trips.
 
 
 
