@@ -171,7 +171,13 @@ The following are summary of the insight gotten from the Cyclistic data spanning
 ## **SHARE**
 
 In the phase, a presentation was prepared for all the stakeholders.
-Presentation to the stakeholders can be found 
+
+Presentation to the stakeholders can be found [here.](Cyclistic Bike-Share.pptx)
+
+
+## **ACT**
+
+In this phase, the marketing team would consider, improve where needed and implement the recommendations given in this project.
 
 
 
