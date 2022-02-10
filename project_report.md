@@ -160,12 +160,12 @@ The following are summary of the insight gotten from the Cyclistic data spanning
 ### Recommendations
  The following recommendation are given based on the insight detailed from the analyzed phase.
  
-**- Seasonal members packages can be introduced as marketing strategy such as:
-Weekend membership
-Summer membership
-Annual membership
+**- Seasonal members packages can be introduced as marketing strategy such as: Weekend membership, Summer membership, Annual membership**
 
-Ads prepared should target recreational events at weekends and during the months of May to October. Ads should also target the top stations where Casual users begin their trips.
+**- Ads prepared should target recreational events at weekends and during the months of May to October. Ads should also target the top stations where Casual users begin their trips.**
+
+**- Special promotion or discount should be introduced to encourage bike users in months or season with colder temperatures.**
+
 
 
 
